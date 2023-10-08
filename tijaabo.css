@@ -45,7 +45,7 @@ img{
 #vote-program-title,#income-statement-title,#num-checker-title,#income-statement-title{
     position: relative;
     z-index: -1;
-    margin-top:-25px;
+    margin-top:-10px;
     transition: 0.7s;
     color:orange;
 }
